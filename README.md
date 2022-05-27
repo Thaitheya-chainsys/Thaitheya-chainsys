@@ -7,9 +7,9 @@
  -->
 <!-- <p align="left"> <a href="https://twitter.com/https://twitter.com/thaitheyasudank" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/thaitheyasudank?logo=twitter&style=for-the-badge" alt="https://twitter.com/thaitheyasudank" /></a> </p> -->
 
-- 🌱 I’m currently learning **Nodejs, JavaScript**
+- 🌱 I’m currently learning **Java Technologies**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Thaitheya](https://github.com/Thaitheya)
+- 👨‍💻 All of my projects are available at [https://github.com/Thaitheya](https://github.com/Thaitheya-chainsys)
 
 - 📝 I regularly write articles on [twistedtweets2805.blogspot.com](twistedtweets2805.blogspot.com)
 
